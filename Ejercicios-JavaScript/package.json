@@ -1,0 +1,14 @@
+{
+  "name": "ejercicios-javascript",
+  "version": "1.0.0",
+  "description": "Lista de ejercicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Benjamin Baigorria",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
